@@ -1,0 +1,61 @@
+[INFO] 2017-07-10 15:02:40,913 Maple.duan.ApacheMQ.openwriteProtocol.Listener - 收到的消息：ActiveMQ 发送的消息
+[INFO] 2017-07-10 15:02:40,914 Maple.duan.ApacheMQ.openwriteProtocol.Listener - 收到的消息：ActiveMQ 发送的消息
+[INFO] 2017-07-10 15:02:40,914 Maple.duan.ApacheMQ.openwriteProtocol.Listener - 收到的消息：ActiveMQ 发送的消息
+[INFO] 2017-07-10 15:02:40,914 Maple.duan.ApacheMQ.openwriteProtocol.Listener - 收到的消息：ActiveMQ 发送的消息
+[INFO] 2017-07-10 15:02:40,914 Maple.duan.ApacheMQ.openwriteProtocol.Listener - 收到的消息：ActiveMQ 发送的消息
+[INFO] 2017-07-10 15:39:35,459 Maple.duan.ApacheMQ.openwriteProtocol.ProducerMaple - MQ连接成功
+[INFO] 2017-07-10 15:39:35,496 Maple.duan.ApacheMQ.openwriteProtocol.Listener - 收到的消息：ActiveMQ 发送的消息
+[INFO] 2017-07-10 15:39:35,499 Maple.duan.ApacheMQ.openwriteProtocol.ProducerMaple - send success!
+[INFO] 2017-07-10 15:39:36,501 Maple.duan.ApacheMQ.openwriteProtocol.Listener - 收到的消息：ActiveMQ 发送的消息
+[INFO] 2017-07-10 15:39:36,537 Maple.duan.ApacheMQ.openwriteProtocol.ProducerMaple - send success!
+[INFO] 2017-07-10 15:39:37,539 Maple.duan.ApacheMQ.openwriteProtocol.Listener - 收到的消息：ActiveMQ 发送的消息
+[INFO] 2017-07-10 15:39:37,563 Maple.duan.ApacheMQ.openwriteProtocol.ProducerMaple - send success!
+[INFO] 2017-07-10 15:39:38,565 Maple.duan.ApacheMQ.openwriteProtocol.Listener - 收到的消息：ActiveMQ 发送的消息
+[INFO] 2017-07-10 15:39:38,605 Maple.duan.ApacheMQ.openwriteProtocol.ProducerMaple - send success!
+[INFO] 2017-07-10 15:39:39,607 Maple.duan.ApacheMQ.openwriteProtocol.Listener - 收到的消息：ActiveMQ 发送的消息
+[INFO] 2017-07-10 15:39:39,628 Maple.duan.ApacheMQ.openwriteProtocol.ProducerMaple - send success!
+[INFO] 2017-07-10 15:39:40,631 Maple.duan.ApacheMQ.openwriteProtocol.Listener - 收到的消息：ActiveMQ 发送的消息
+[INFO] 2017-07-10 15:39:40,664 Maple.duan.ApacheMQ.openwriteProtocol.ProducerMaple - send success!
+[INFO] 2017-07-10 15:39:41,665 Maple.duan.ApacheMQ.openwriteProtocol.Listener - 收到的消息：ActiveMQ 发送的消息
+[INFO] 2017-07-10 15:39:41,712 Maple.duan.ApacheMQ.openwriteProtocol.ProducerMaple - send success!
+[INFO] 2017-07-10 15:39:42,716 Maple.duan.ApacheMQ.openwriteProtocol.Listener - 收到的消息：ActiveMQ 发送的消息
+[INFO] 2017-07-10 15:41:00,861 Maple.duan.ApacheMQ.openwriteProtocol.ProducerMaple - MQ连接成功
+[INFO] 2017-07-10 15:41:00,962 Maple.duan.ApacheMQ.openwriteProtocol.ProducerMaple - send success!
+[INFO] 2017-07-10 15:41:02,004 Maple.duan.ApacheMQ.openwriteProtocol.ProducerMaple - send success!
+[INFO] 2017-07-10 15:41:03,046 Maple.duan.ApacheMQ.openwriteProtocol.ProducerMaple - send success!
+[INFO] 2017-07-10 15:41:14,340 org.apache.activemq.transport.failover.FailoverTransport - Successfully connected to tcp://127.0.0.1:61616
+[INFO] 2017-07-10 15:41:14,383 Maple.duan.ApacheMQ.openwriteProtocol.Listener - 收到的消息：ActiveMQ 发送的消息
+[INFO] 2017-07-10 15:41:14,384 Maple.duan.ApacheMQ.openwriteProtocol.Listener - 收到的消息：ActiveMQ 发送的消息
+[INFO] 2017-07-10 15:41:14,384 Maple.duan.ApacheMQ.openwriteProtocol.Listener - 收到的消息：ActiveMQ 发送的消息
+[INFO] 2017-07-10 15:41:15,380 org.apache.activemq.transport.failover.FailoverTransport - Successfully connected to tcp://127.0.0.1:61616
+[INFO] 2017-07-10 15:41:16,395 org.apache.activemq.transport.failover.FailoverTransport - Successfully connected to tcp://127.0.0.1:61616
+[INFO] 2017-07-10 15:41:17,409 org.apache.activemq.transport.failover.FailoverTransport - Successfully connected to tcp://127.0.0.1:61616
+[INFO] 2017-07-10 15:41:18,425 org.apache.activemq.transport.failover.FailoverTransport - Successfully connected to tcp://127.0.0.1:61616
+[INFO] 2017-07-10 15:41:19,441 org.apache.activemq.transport.failover.FailoverTransport - Successfully connected to tcp://127.0.0.1:61616
+[INFO] 2017-07-10 15:41:20,457 org.apache.activemq.transport.failover.FailoverTransport - Successfully connected to tcp://127.0.0.1:61616
+[INFO] 2017-07-10 15:41:21,473 org.apache.activemq.transport.failover.FailoverTransport - Successfully connected to tcp://127.0.0.1:61616
+[INFO] 2017-07-10 15:41:22,494 org.apache.activemq.transport.failover.FailoverTransport - Successfully connected to tcp://127.0.0.1:61616
+[INFO] 2017-07-10 15:41:23,511 org.apache.activemq.transport.failover.FailoverTransport - Successfully connected to tcp://127.0.0.1:61616
+[INFO] 2017-07-10 15:41:24,525 org.apache.activemq.transport.failover.FailoverTransport - Successfully connected to tcp://127.0.0.1:61616
+[INFO] 2017-07-10 15:41:25,539 org.apache.activemq.transport.failover.FailoverTransport - Successfully connected to tcp://127.0.0.1:61616
+[INFO] 2017-07-10 15:41:26,555 org.apache.activemq.transport.failover.FailoverTransport - Successfully connected to tcp://127.0.0.1:61616
+[INFO] 2017-07-10 15:41:27,571 org.apache.activemq.transport.failover.FailoverTransport - Successfully connected to tcp://127.0.0.1:61616
+[INFO] 2017-07-10 15:41:28,587 org.apache.activemq.transport.failover.FailoverTransport - Successfully connected to tcp://127.0.0.1:61616
+[WARN] 2017-07-11 10:31:06,181 io.netty.channel.DefaultChannelPipeline - An exceptionCaught() event was fired, and it reached at the tail of the pipeline. It usually means the last handler in the pipeline did not handle the exception.
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(Unknown Source)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(Unknown Source)
+	at sun.nio.ch.IOUtil.read(Unknown Source)
+	at sun.nio.ch.SocketChannelImpl.read(Unknown Source)
+	at io.netty.buffer.PooledUnsafeDirectByteBuf.setBytes(PooledUnsafeDirectByteBuf.java:288)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1100)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:372)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:123)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:644)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:579)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:496)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:458)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:858)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Unknown Source)
